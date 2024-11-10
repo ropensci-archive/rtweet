@@ -1,7 +1,7 @@
 #' Set up default authentication
 #'
 #' You'll need to run this function once per computer so that rtweet can use
-#' your personal Twitter account. See [rtweet_app()]/[rtweet_bot] and
+#' your personal Twitter account. See [rtweet_app()]/[rtweet_bot()] and
 #' [auth_save()] for other authentication options.
 #'
 #' It will use the current logged in account on the default browser to detect
